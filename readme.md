@@ -6,6 +6,13 @@
 
 🤝 Open to exciting challenges and collaboration opportunities!  
 
+## Portfolio:
+🔗 Kidoo
+🔗 Grading Kidoo
+📱 UrbanKy Ticketeria
+📱 UrbanKy Validator
+📱 UrbanKy Dashboard
+
 ## 🦄 Languages  
 - JavaScript, TypeScript, PHP, Java  
 - Learning: Kotlin & Swift  
@@ -15,4 +22,3 @@
 - **Back-end:** Node.js, Laravel, NestJS, Spring Boot  
 - **Mobile:** Android (Java/Kotlin), iOS (Swift)  
 
-📩 **Let’s connect and build something amazing together!**  
