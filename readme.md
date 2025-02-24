@@ -7,11 +7,12 @@
 🤝 Open to exciting challenges and collaboration opportunities!  
 
 ## Portfolio:
-🔗 Kidoo
-🔗 Grading Kidoo
-📱 UrbanKy Ticketeria
-📱 UrbanKy Validator
-📱 UrbanKy Dashboard
+🔗 Kidoo http://kidoo.com.br/
+🔗 CBA Grading  http://grading.kidoo.vps-kinghost.net/home
+📱 Urbanky Ticketeria https://play.google.com/store/apps/details?id=com.urbanky.ticketeria&hl=pt_BR
+📱 Urbanky Validator https://play.google.com/store/apps/details?id=com.urbanky.validator&hl=pt_BR
+📱 Urbanky Dashboard https://play.google.com/store/apps/details?id=com.urbanky.dashboard&hl=pt_BR
+📱 Atlantic Pay https://play.google.com/store/apps/details?id=com.atlantic.pay&hl=pt_BR
 
 ## 🦄 Languages  
 - JavaScript, TypeScript, PHP, Java  
