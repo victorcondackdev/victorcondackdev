@@ -11,7 +11,7 @@
 - Learning: Kotlin & Swift  
 
 ## 💼 Tools & Frameworks  
-- **Front-end:** Angular, React  
+- **Front-end:** Angular, React, next.js, tailwind  
 - **Back-end:** Node.js, Laravel, NestJS, Spring Boot  
 - **Mobile:** Android (Java/Kotlin), iOS (Swift)  
 
