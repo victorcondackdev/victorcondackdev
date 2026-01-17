@@ -35,11 +35,6 @@ Repo do perfil:
 
 ---
 
-## 🔗 Portfolio
-- 🔗 **Kidoo** → http://kidoo.com.br/
-- 🔗 **CBA Grading** → http://grading.kidoo.vps-kinghost.net/home
-
----
 
 ## 📱 Apps (Google Play)
 - 🔗 **Urbanky Ticketeria**  
