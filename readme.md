@@ -5,15 +5,15 @@ Repo do perfil:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🐠%20Victor%20Condack%20—%20Aquário%20de%20Código&fontAlign=50&fontAlignY=35&desc=Sistemas%20estáveis%20como%20um%20aquário%20bem%20filtrado&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Victor%20Condack&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Backend&descAlign=50&descAlignY=60" />
 </p>
 
 <h1 align="center">Hello, I'm Victor Condack 👋</h1>
 
 <p align="center">
   🚀 <b>Full Stack, Mobile & Backend Developer</b> building scalable and efficient solutions.<br/>
-  🐟 <i>“I think of systems like an aquarium: without filtration, monitoring and routine, the water gets cloudy.”</i><br/>
-  🤝 Open to exciting challenges and collaboration opportunities.
+  💡 Constantly learning and exploring new technologies, currently diving into <b>Kotlin & Swift</b> for mobile development.<br/>
+  🤝 Open to exciting challenges and collaboration opportunities!
 </p>
 
 <p align="center">
@@ -28,17 +28,9 @@ Repo do perfil:
 
 ---
 
-## 🌊 My “Aquarium” mindset (how I build)
-- 🧪 **Crystal-clear water = observability** (logs, metrics, tracing, alerts)
-- 🧹 **Filter = automation & quality** (CI/CD, tests, lint, code review)
-- 🧱 **Stable environment = reliable infra** (security, networking, scaling)
-- 🐠 **Healthy fish = resilient services** (idempotency, retries, DLQ, SLOs)
-
----
-
-## 🏦 Banking & Messaging (what I do a lot)
+## 🏦 Banking & Messaging
 - 💳 **Banking/Fintech projects**: payment flows, onboarding, integrations, reliability in production
-- 📬 **Messaging / Queues**: Kafka / RabbitMQ concepts (pub-sub, consumers, retries, DLQ)
+- 📬 **Messaging / Queues**: Kafka / RabbitMQ (pub-sub, consumers, retries, DLQ)
 - 🧩 **Distributed systems**: consistency, resilience, fault tolerance, monitoring
 
 ---
@@ -62,7 +54,7 @@ Repo do perfil:
 ---
 
 ## 🦄 Languages
-- **Go**, **Java**, JavaScript, TypeScript, PHP
+- **Go**, **Java**, JavaScript, TypeScript, PHP  
 - Learning: **Kotlin & Swift**
 
 ---
@@ -71,7 +63,7 @@ Repo do perfil:
 - **Front-end:** Angular, React, Next.js, Tailwind
 - **Back-end:** Node.js, Laravel, NestJS, Spring Boot, **Go (APIs & services)**
 - **Mobile:** Android (Java/Kotlin), iOS (Swift)
-- **Messaging:** Kafka / RabbitMQ (concepts, patterns, reliability)
+- **Messaging:** Kafka / RabbitMQ
 
 ---
 
@@ -82,11 +74,3 @@ Repo do perfil:
 </p>
 
 ---
-
-
-
-<!--
-DICA: troque SEU_USUARIO acima pelo seu @ do GitHub.
-Se quiser o tema aquário mais forte, suba um banner em /assets e use aqui:
-<p align="center"><img src="./assets/aquarium-banner.png" /></p>
--->
